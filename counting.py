@@ -7,3 +7,6 @@ def count_vowels(text):
             count += 1
 
     return count
+
+def count_words(text):
+    return len(text.split())
