@@ -89,10 +89,10 @@ This experiment helped us understand how to create and maintain project document
 
 ## Authors
 
-**Aayush Aade**
-**Abhishek Gore**
-**Riddhi Gopalani**
-**Om Mahajan**
+- **Aayush Aade**
+- **Abhishek Gore**
+- **Riddhi Gopalani**
+- **Om Mahajan**
 
 Department of AI & Data Science
 
