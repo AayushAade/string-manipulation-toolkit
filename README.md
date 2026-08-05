@@ -20,7 +20,6 @@ A simple project demonstrating **Version Control using Git** and **Markdown docu
 | Name | Roll Number |
 |------|-------------|
 | Aayush Aade | 34101 |
-| Abhishek Gore | 34103 |
 | Riddhi Gopalani | 34124 |
 | Om Mahajan | 34140 |
 
@@ -90,7 +89,6 @@ This experiment helped us understand how to create and maintain project document
 ## Authors
 
 - **Aayush Aade**
-- **Abhishek Gore**
 - **Riddhi Gopalani**
 - **Om Mahajan**
 
