@@ -1,6 +1,6 @@
 # DevOps Practical
 
-A simple project demonstrating **Version Control using Git** and **Markdown documentation**.
+A simple project demonstrating **Version Control using Git** and **Markdown documentation**. 
 
 ---
 
